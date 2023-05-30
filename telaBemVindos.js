@@ -1,6 +1,7 @@
 let area = document.getElementById('area');
 let botao = document.getElementById("botao");
 nomeCadastro = [];
+console.log(nomeCadastro)
 
 function entrar() {
     let encontrou = false;
